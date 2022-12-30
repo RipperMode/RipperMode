@@ -1,6 +1,6 @@
 # RipperMode
 
-**`Inspired software developer (Developer\Scholar\Designer)`**
+**`Software developer (Developer\Scholar\Designer)`**
 
 I'm an software developer seeking to grow my skills with professionals, automate the boring stuff and help people live their best life.
 Soon here will be more 😉
