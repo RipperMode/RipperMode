@@ -31,14 +31,3 @@ Soon here will be more 😉
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=RipperMode&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ---
-
-<details>
- <summary><h3> 🎑 The Log </h3></summary>
- At this very moment, while filling this page i looking for a job. I already got a few projects that will be displayed on GitHub and on which i plan to work moving forward, it's all the game of numbers. The more i did, the more i will be able to do. Going further this part will be reserved for things i accomplished by far:
- <ul>
- <li>First small programms in python from Stepik and SoloLearn lessons.</li>
- <li>HTML and CSS courses as well as courses in responsive web design, web-developement fundamentals and coding for marketers.</li>
- <li>Familiarized with SQL, MySQL, postgresql, Docker, Git, GitHub.</li>
- <li>Starting to pick-up Golang and going deep into backend development.</li>
- <li>Completed the web-scraper app with Amazon scraping in mind. Began development of URL-Shortener, project management app and personal web-site.</li>
- </ul>
