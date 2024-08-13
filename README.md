@@ -30,8 +30,5 @@ Soon here will be more 😉
 
 
 ---
-
-![RipperMode's GitHub stats](https://github-readme-stats.vercel.app/api?username=RipperMode&show_icons=true&theme=tokyonight)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=RipperMode&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
 ---
